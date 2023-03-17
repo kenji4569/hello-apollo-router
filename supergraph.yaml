@@ -1,0 +1,10 @@
+federation_version: =2.3.2
+subgraphs:
+  book_api:
+    routing_url: http://localhost:4001
+    schema:
+      subgraph_url: http://localhost:4001
+  author_api:
+    routing_url: http://localhost:4002
+    schema:
+      subgraph_url: http://localhost:4002

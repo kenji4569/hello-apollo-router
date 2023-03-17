@@ -1,0 +1,32 @@
+
+# General
+.env
+.vscode
+.idea
+
+# OSX
+.DS_Store
+
+# Artifacts
+build
+cache
+core
+debug
+deposit
+data
+dist
+out
+output
+target
+result
+results
+
+# Node.js
+node_modules
+coverage
+npm-debug.log
+package-lock.json
+
+# hello-apollo-router
+router
+supergraph-schema.graphql
