@@ -89,7 +89,7 @@ curl -sSL https://router.apollo.dev/download/nix/latest | sh
 - Run Apollo Router
 
 ```
-./router --supergraph supergraph-schema.graphql
+./router --dev --supergraph supergraph-schema.graphql
 ```
 
 - Check a query
